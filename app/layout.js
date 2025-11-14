@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
 
           {/* Konten Utama + Mobile Sidebar */}
           <div className="flex-1 flex flex-col">
-            <MobileSidebar />
+            {/* <MobileSidebar /> */}
             <main className="flex-1 w-full bg-special overflow-y-auto">
               {children}
             </main>

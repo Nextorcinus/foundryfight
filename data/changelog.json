@@ -1,0 +1,142 @@
+[
+  {
+    "version": "b75a695",
+    "date": "2025-06-01",
+    "title": "update fixing",
+    "changes": [
+      "update fixing"
+    ]
+  },
+  {
+    "version": "2fb8b4f",
+    "date": "2025-05-31",
+    "title": "Force rename icon files to lowercase for Vercel",
+    "changes": [
+      "Force rename icon files to lowercase for Vercel"
+    ]
+  },
+  {
+    "version": "1aaaf64",
+    "date": "2025-05-31",
+    "title": "update pop up",
+    "changes": [
+      "update pop up"
+    ]
+  },
+  {
+    "version": "f00c12b",
+    "date": "2025-05-31",
+    "title": "update",
+    "changes": [
+      "update"
+    ]
+  },
+  {
+    "version": "40b3f2a",
+    "date": "2025-05-27",
+    "title": "update",
+    "changes": [
+      "update"
+    ]
+  },
+  {
+    "version": "c7aabdb",
+    "date": "2025-05-27",
+    "title": "Added Widget Hero",
+    "changes": [
+      "Added Widget Hero"
+    ]
+  },
+  {
+    "version": "b0480c7",
+    "date": "2025-05-23",
+    "title": "fix stable charm useEffect delete charm input",
+    "changes": [
+      "fix stable charm useEffect delete charm input"
+    ]
+  },
+  {
+    "version": "06c5198",
+    "date": "2025-05-19",
+    "title": "Fix Chief Charm, Material Charm Json, Fix logic Compare Charm",
+    "changes": [
+      "Fix Chief Charm, Material Charm Json, Fix logic Compare Charm"
+    ]
+  },
+  {
+    "version": "f30e5f2",
+    "date": "2025-05-17",
+    "title": "add framer-motion, fix path",
+    "changes": [
+      "add framer-motion, fix path"
+    ]
+  },
+  {
+    "version": "25316ea",
+    "date": "2025-05-16",
+    "title": "log update has been Fixed",
+    "changes": [
+      "log update has been Fixed"
+    ]
+  },
+  {
+    "version": "ad1b021",
+    "date": "2025-05-16",
+    "title": "log error",
+    "changes": [
+      "log error"
+    ]
+  },
+  {
+    "version": "4c92a89",
+    "date": "2025-05-16",
+    "title": "change log",
+    "changes": [
+      "change log"
+    ]
+  },
+  {
+    "version": "1eaad48",
+    "date": "2025-05-15",
+    "title": "Merge branch 'main' of https://github.com/Nextorcinus/special-lazyness",
+    "changes": [
+      "Merge branch 'main' of https://github.com/Nextorcinus/special-lazyness"
+    ]
+  },
+  {
+    "version": "dde40f6",
+    "date": "2025-05-14",
+    "title": "add Contact Me to discord",
+    "changes": [
+      "add Contact Me to discord"
+    ]
+  },
+  {
+    "version": "bb5ab5b",
+    "date": "2025-05-14",
+    "title": "Fix changelog Path",
+    "changes": [
+      "Fix changelog Path"
+    ]
+  },
+  {
+    "version": "5bb8ca9",
+    "date": "2025-05-14",
+    "title": "Publish War Academy",
+    "changes": [
+      "Publish War Academy",
+      "Fix app stability",
+      "Fix Json Helios Research",
+      "Update Version",
+      "Fix form validation 0 from select level"
+    ]
+  },
+  {
+    "version": "8d04a0b",
+    "date": "2025-05-14",
+    "title": "update",
+    "changes": [
+      "update"
+    ]
+  }
+]

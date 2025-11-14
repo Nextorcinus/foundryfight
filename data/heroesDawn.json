@@ -1,0 +1,164 @@
+{
+  "dawn": [
+    {
+      "id": "01",
+      "name": "Cyrille",
+      "description": "She’s a Bear Huntress, which means she gives bonuses related to Bear Hunt—like increasing Bear Hunt Rally capacity, giving Enhancement XP as rewards, boosting the number of Essence Stones you earn, and raising the troop deployment limit for Bear Hunts.",
+      "talent": {
+        "name": "Hunter's Heart",
+        "description": "Cyrille is a repository of bear-hunting skills and knowledge, increasing Bear Hunt Damage Points by 30% (effective for self only).",
+        "upgrade-preview": "hunters-heart.png"
+      },
+      "expedition": "Troops attack : +15%",
+      "expedition-preview": "",
+      "summarize": "Focus: Bear Hunt (PvE event)\n\nAdvantages:\nDeals high damage, provides extra Rally Capacity, and grants gear XP bonuses.\nIdeal for farming Bear Hunt and strengthening heroes/gear.\n\nLeveling Strategy:\nLevel up Cryille to level 40, but do not give too many gifts. Max out at level 40 and let the XP increase on its own through normal gameplay.\n\nSkill Breakdown:\nSkill 1: Important for increasing rally capacity, allowing more troops to join the rally.\nSkill 2: Beneficial because it grants an additional 5 x 100 XP from bear hunts at max level. With 15 bear hunts per month, you can earn 7,500 XP.\nSkill 3: Reaches max level at level 40 for Cryille, granting 5 essence stones.\nSkill 4: Increases the capacity for you to join. However, this is not a priority because upgrading to this level is difficult. Prioritize upgrades for other skills instead.\n\nF2P Effectiveness: Very high\nAll skills can be utilized without purchasing premium items.\n\nSpender Effectiveness: Medium\nSpenders can unlock skills faster, but F2P players can remain effective as well.",
+      "skills": [
+        {
+          "number": 1,
+          "name": "Entrapment",
+          "description": "Increased Rally Capacity on Bear Hunt by 300,000, making it easier to gather troops.",
+          "skill-img": "Entrapment.webp"
+        },
+        {
+          "number": 2,
+          "name": "Scavenging",
+          "description": "Each Bear Hunt grants 5×100 Enhancement XP Components—effective for strengthening hero gear.",
+          "skill-img": "scavenging.webp"
+        },
+        {
+          "number": 3,
+          "name": "Weapon Master",
+          "description": "Add 5 Essence Stones as a bonus per Bear Hunt—useful for upgrading gear.",
+          "skill-img": "weapon-master.webp"
+        },
+        {
+          "number": 4,
+          "name": "Ursa’s Bane",
+          "description": "Increases Troop Deployment Capacity during Bear Hunt by 30,000, helping to gather larger armies.",
+          "skill-img": "ursas-bane.webp"
+        }
+      ],
+      "image-hero": "cyrille.png"
+    },
+    {
+      "id": "02",
+      "name": "Agnes",
+      "description": "She’s an “Elite Politician” and provides city-related buffs—like giving Seeker Chests when gathering, adding extra Intel missions, increasing stamina from the Storehouse, skipping a few hours of construction when starting an upgrade, and granting extra Mystery Badges from Daily Missions.",
+      "talent": {
+        "name": "Earthbreaker",
+        "description": "Agnes’s advanced drill machine can even indentify useful items buried near gathered resources. Gives 5 Seeker Chests every 120 gathering minutes (upto 30 chests daily, refreshing at 0:00 UTC)",
+        "upgrade-preview": "earthbraker.png"
+      },
+      "expedition": "Troops defense : +15%",
+      "expedition-preview": "",
+      "summarize": "Focus: Economy & resources (gathering & daily missions)\n\nAdvantages:\nSupports stamina regeneration, Intel Missions, chest gathering, and Mystery Badges.\nReduces building construction and upgrade times.\n\nAdditional Gathering Benefits:\nObtain chests while farming with the hero gathering skill. You can get crystal fire, speedup, gems, or XP from the seeker chest, which is great for F2P players.\n\nLeveling Strategy:\nThis can be leveled up to level 20 or 30, and let the XP increase on its own.\n\nSkill Breakdown:\nSkill 1: Provides an additional 8 intel missions per day after the reset.\nSkill 2: Provides additional stamina. This doesn't need to be high because maxing it out requires unlocking level 80 first. Not worth it for F2P players.\nSkill 3: Not important as it speeds up the construction of new buildings.\nSkill 4: Important, granting 4 Mystery Badge refreshes. This means you normally get 80 Mystery Badges per day, but when this skill is maxed out, you get 200. However, this is not recommended for F2P players.\n\nF2P Effectiveness: Medium-High\nF2P players can gradually benefit economically, especially if they log in daily.\n\nSpender Effectiveness: High\nP2P players can maximize daily bonuses and drastically reduce construction times, allowing resources to develop faster.",
+      "skills": [
+        {
+          "number": 1,
+          "name": "Efficient Recon",
+          "description": "Provides 8 additional Intel Missions per day, increasing the potential reward upgrade.",
+          "skill-img": "efficient-recon.webp"
+        },
+        {
+          "number": 2,
+          "name": "Optimization",
+          "description": "Increasing the stamina regeneration of Patrick's cans by 40 points means an additional 80 stamina per day.",
+          "skill-img": "optimization.webp"
+        },
+        {
+          "number": 3,
+          "name": "Project Management",
+          "description": "Reduce new construction time by 8 hours per project—meaning up to 40 hours on a 5-stage building.",
+          "skill-img": "project-management.webp"
+        },
+        {
+          "number": 4,
+          "name": "Covert Knowledge",
+          "description": "Gives +120 Mystery Badges when completing daily missions and 4 free refreshes per day at the Mystery Merchant.",
+          "skill-img": "covert-knowledge.webp"
+        }
+      ],
+      "image-hero": "agnes.png"
+    },
+    {
+      "id": "03",
+      "name": "Romulus",
+      "description": "Romulus is a military-type Expert who provides extra troop capacity, strengthens rallies, and gives daily Loyalty Tags bonuses.",
+      "talent": {
+        "name": "Commander Crest",
+        "description": "Commander Romulus is an expert at large deployments, increasing heroes expedition army size limit by 10.000.",
+        "upgrade-preview": "commander-crest.png"
+      },
+      "expedition": ["Troops lethality : +15%", "Troops health : +15%"],
+      "expedition-preview": "",
+      "summarize": "Focus: PvP & War Events (SVS, Rally, Expedition)\n\nAdvantages:\nIncreases Troop Capacity, Rally Capacity, and daily Loyalty Tags.\nIncreases troop capacity at max level by 10,000. This is very useful for whales.\n\nSkill Breakdown:\nSkill 1: Adds 600 troops per day and 10 loyalty tags at max level. So troops will be trained for free at the highest level, for example, if we have T11, we can take the T11.\nSkill 2: Increases attack and defense by 10% at max level at level 20.\nSkill 3: Increases lethality and health by 10% at max level at level 20.\nSkill 4: Increases rally capacity at max level by 100,000.\n\nF2P Effectiveness: Low-Medium\nF2P players find it difficult to maximize benefits due to limited troops and the difficulty of achieving large rallies.\n\nEffectiveness for Spenders: Very High\nP2P players can immediately utilize Troop & Rally Cap for PvP events, providing a significant strategic advantage.\n\nConclusion: Romulus is suitable for whales and spenders.",
+      "skills": [
+        {
+          "number": 1,
+          "name": "Call of War",
+          "description": "Provides 600 free high-level troops from the camp per day and 10 Loyalty Tags per day—potentially equivalent to 10,000 Gems of strategic value.",
+          "skill-img": "call-of-war.png"
+        },
+        {
+          "number": 2,
+          "name": "Last Line",
+          "description": "Increases troop attack and defense by 10%, strengthening military power.",
+          "skill-img": "last-line.png"
+        },
+        {
+          "number": 3,
+          "name": "Spirit of Aeetes",
+          "description": "Increases the lethality and health of all troops by 10%, strengthening the entire army.",
+          "skill-img": "spirit-of-aeetes.png"
+        },
+        {
+          "number": 4,
+          "name": "One Heart",
+          "description": "Increasing Rally Capacity by 100,000, supporting large rallies, especially for rally leaders.",
+          "skill-img": "one-heart.png"
+        }
+      ],
+      "image-hero": "romulus.png"
+    },
+    {
+      "id": "04",
+      "name": "Holger",
+      "description": "Holger is an Arena expert with exceptional abilities in supporting performance in the arena.",
+      "talent": {
+        "name": "Blade Dancing",
+        "description": "Holger know the best rewards in the Arena are often won from the crowd. Holger's winsome techniques give 100% chance of audience reward: 3 Arena Star Chest's",
+        "upgrade-preview": "blade-dancing.png"
+      },
+      "expedition": ["Troops attack : +15%", "Troops defense : +15%"],
+      "expedition-preview": "",
+      "summarize": "Focus: Arena (PvP tokens & hero stats)\n\nAdvantages:\nProvides hero stat boosts, 50% more Arena Tokens, and Arena Shop discounts.\nThe materials should be given to this hero. His talent is useful for adding chests in the arena. When maxed out, you will get 3 chests with a 100% chance. You can get essence stones, mythic shards, XP, or speed-ups.\nThis hero can be upgraded to the highest level using cigil stones, which can be purchased in the shop.\n\nSkill Breakdown:\nSkill 1: This is not about enhancing the hero, but the small units receive a boost when in the arena.\nSkill 2: This is important. When you reach max level, you get 50% arena tokens.\nSkill 3: In the arena shop, you can obtain additional items, up to a maximum of 3 items, and a 50% discount at max level. The items provided in the shop are random.\nSkill 4: This is extremely powerful for the arena. It increases the hero's attack and HP. It's very useful at max level, as the escort's stats increase by 20%.\n\nF2P Effectiveness: Medium\nToken farming is limited by the number of tokens that can be collected for free.\nF2P players can utilize stat boosts, but the benefits of the shop and tokens will be felt slowly.\nFor F2P players, it's quite helpful.\n\nEffectiveness for Spenders: High\nSpenders can purchase additional tokens, utilize shop discounts, and maximize hero upgrades in the arena.\nFor whales, it's highly recommended.",
+      "skills": [
+        {
+          "number": 1,
+          "name": "Arena Elite",
+          "description": "Increases heroes' Attack and Health in the arena by 20%, strengthening their performance in duels.",
+          "skill-img": "arena-elite.png"
+        },
+        {
+          "number": 2,
+          "name": "Crowd Pleaser",
+          "description": "A boost provided by a showman that increases daily and weekly arena token earnings by 50%.",
+          "skill-img": "crowd-pleaser.png"
+        },
+        {
+          "number": 3,
+          "name": "Arena Star",
+          "description": "strengthens arena shop rewards by offering three more items and a 50% discount.",
+          "skill-img": "arena-star.png"
+        },
+        {
+          "number": 4,
+          "name": "Legacy",
+          "description": "Includes the next generation of heroes with +20% Attack and Health, strengthening long-term power in the arena.",
+          "skill-img": "legacy.png"
+        }
+      ],
+      "image-hero": "holger.png"
+    }
+  ]
+}

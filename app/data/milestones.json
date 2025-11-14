@@ -1,0 +1,357 @@
+{
+  "milestones": [
+    {
+      "days": 0,
+      "name": "Initial Heroes Access",
+      "details": [],
+      "heroGroups": [
+        {
+          "groupName": "SSR Heroes",
+          "heroes": {
+            "names": ["Natalia", "Jeronimo", "Zinman", "Molly"],
+            "images": [
+              "/icon/natalia_thumb.png",
+              "/icon/jeronimo_thumb.png",
+              "/icon/zinman_thumb.png",
+              "/icon/molly_thumb.png"
+            ],
+            "acquisition": [["vip"], ["HOC", "vip"], ["Lucky_Wheel"], []]
+          }
+        },
+        {
+          "groupName": "SR Heroes",
+          "heroGrids": [
+            {
+              "names": [
+                "Sergey",
+                "Jessie",
+                "Patrick",
+                "Walis Bokan",
+                "Ling Xue"
+              ],
+              "images": [
+                "/icon/sergey_thumb.png",
+                "/icon/jessie_thumb.png",
+                "/icon/patrick_thumb.png",
+                "/icon/lumak_bokan_thumb.jpg",
+                "/icon/ling_xue_thumb.jpg"
+              ]
+            },
+            {
+              "names": ["Gina", "Bahiti", "Jasser", "Seo-yoon"],
+              "images": [
+                "/icon/gina_thumb.png",
+                "/icon/bahiti_thumb.png",
+                "/icon/jasser_thumb.jpg",
+                "/icon/seo_yoon_thumb.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "groupName": "R Heroes",
+          "heroes": {
+            "names": ["Smith", "Eugene", "Charlie", "Cloris"],
+            "images": [
+              "/icon/smith-thumb.png",
+              "/icon/eugene-thumb.png",
+              "/icon/charlie_thumb.png",
+              "/icon/cloris_thumb.png"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "days": 40,
+      "name": "Gen 2 Heroes",
+      "details": ["3 Added Gen 2 Heroes"],
+      "heroes": {
+        "names": ["Flint", "Philly", "Alonso"],
+        "icon": [
+          "/icon/flint_thumb.jpg",
+          "/icon/philly_thumb.jpg",
+          "/icon/alonso_thumb.jpg"
+        ],
+        "acquisition": [["Lucky_Wheel"], ["HOC", "KOI", "SVS"], ["HOH"]]
+      }
+    },
+    {
+      "days": 53,
+      "name": "First Pets Update",
+      "details": ["3 first pets updates"],
+      "icons": {
+        "names": ["Musk Ox", "Artic Wolf", "Cave Hyena"],
+        "icon": [
+          "/icon/musk_ox.jpg",
+          "/icon/artic_wolf.jpg",
+          "/icon/cave_hyena.jpg"
+        ]
+      }
+    },
+    {
+      "days": 60,
+      "name": "Fire Crystal Era",
+      "details": ["Fire Crystal 1-3"],
+      "icons": {
+        "names": ["Crystal 1", "Crystal 2", "Crystal 3"],
+        "icon": [
+          "/icon/crystal1.png",
+          "/icon/crystal2.png",
+          "/icon/crystal3.png"
+        ]
+      }
+    },
+    {
+      "days": 85,
+      "name": "PvP Update",
+      "details": ["SvS & KOI"],
+      "icons": {
+        "names": ["SvS", "KOI"],
+        "icon": ["/icon/SVS.png", "/icon/KOI.png"]
+      }
+    },
+    {
+      "days": 91,
+      "name": "2nd Pets Update",
+      "details": ["second pets update"],
+      "icons": {
+        "names": ["Titan Roc", "Giant Tapir"],
+        "icon": ["/icon/titan_roc.jpg", "/icon/giant_tapir.jpg"]
+      }
+    },
+    {
+      "days": 120,
+      "name": "Gen 3 Heroes",
+      "details": ["3 Added Gen 3 Heroes"],
+      "heroes": {
+        "names": ["Logan", "Mia", "Greg"],
+        "icon": [
+          "/icon/logan_thumb.jpg",
+          "/icon/mia_thumb.jpg",
+          "/icon/greg_thumb.jpg"
+        ],
+        "acquisition": [["HOH"], ["Lucky_Wheel"], ["HOC", "KOI", "SVS"]]
+      }
+    },
+    {
+      "days": 143,
+      "name": "3rd Pets Update",
+      "details": ["2 Pets Update"],
+      "icons": {
+        "names": ["Giant Elk", "Snow Leopard"],
+        "icon": ["/icon/giant_elk.jpg", "/icon/snow_leopard.jpg"]
+      }
+    },
+    {
+      "days": 150,
+      "name": "Crystal Fire  & Infrastructure",
+      "details": ["Fire Crystal 4-5", "Crystal laboratory unlock"],
+      "icons": {
+        "names": ["Crytal 4", "Crytal 4", "Crystal Lab"],
+        "icon": [
+          "/icon/crystal4.png",
+          "/icon/crystal5.png",
+          "/icon/crystal-laboratory.png"
+        ]
+      }
+    },
+    {
+      "days": 180,
+      "name": "Legendary Equipment",
+      "details": ["Legendary chief gear unlock"],
+      "icons": {
+        "names": [
+          "Belt Legendary",
+          "Cap Legendary",
+          "Coat Legendary",
+          "Pants Legendary",
+          "Watch Legendary",
+          "Weapon Legendary"
+        ],
+        "icon": [
+          "/icon/T3_3star_belt.png",
+          "/icon/T3_3star_cap.png",
+          "/icon/T3_3star_coat.png",
+          "/icon/T3_3star_pants.png",
+          "/icon/T3_3star_watch.png",
+          "/icon/T3_3star_weapon.png"
+        ]
+      }
+    },
+    {
+      "days": 195,
+      "name": "Gen 4 Heroes",
+      "details": ["3 Added Gen 4 Heroes"],
+      "heroes": {
+        "names": ["Ahmose", "Reina", "Lynn"],
+        "icon": [
+          "/icon/ahmose_thumb.jpg",
+          "/icon/reina_thumb.jpg",
+          "/icon/lynn_thumb.jpg"
+        ],
+        "acquisition": [["HOC", "KOI", "SVS"], ["HOH"], ["Lucky_Wheel"]]
+      }
+    },
+    {
+      "days": 200,
+      "name": "4th Pets Update",
+      "details": ["2 Pets Update"],
+      "icons": {
+        "names": ["Snow Ape", "Cave Lion"],
+        "icon": ["/icon/snow_ape.jpg", "/icon/cave_lion.jpg"]
+      }
+    },
+    {
+      "days": 220,
+      "name": "War Academy Update",
+      "details": [
+        "War academy unlock",
+        "Fire crystal tech unlock",
+        "T11 troops unlock"
+      ],
+      "icons": {
+        "names": [
+          "Academy",
+          "Fire Crystal Shard",
+          "infantry_T11",
+          "lancer_T11",
+          "marksman_T11"
+        ],
+        "icon": [
+          "/icon/war-academy.png",
+          "/icon/fire_crystal_shard.png",
+          "/icon/infantry_T11.png",
+          "/icon/lancer_T11.png",
+          "/icon/marksman_T11.png"
+        ]
+      }
+    },
+    {
+      "days": 270,
+      "name": "Gen 5 Heroes",
+      "details": ["3 Added Gen 5 Heroes"],
+      "heroes": {
+        "names": ["Hector", "Norah", "Gwen"],
+        "icon": [
+          "/icon/hector_thumb.jpg",
+          "/icon/norah_thumb.jpg",
+          "/icon/gwen_thumb.jpg"
+        ],
+        "acquisition": [["Lucky_Wheel"], ["HOC", "KOI", "SVS"], ["HOH"]]
+      }
+    },
+    {
+      "days": 280,
+      "name": "5th Pets Update",
+      "details": ["2 Pets Update"],
+      "icons": {
+        "names": ["Iron Rhino", "Saber-tooth Tiger"],
+        "icon": ["/icon/iron_rhino.jpg", "/icon/saber-tooth_tiger.jpg"]
+      }
+    },
+    {
+      "days": 315,
+      "name": "Advanced Crystal Update",
+      "details": [
+        "Fire crystal building level 6-8",
+        "Refined fire crystal unlock"
+      ],
+      "icons": {
+        "names": ["Crytal 6", "Crytal 7", "Crystal 8", "Refined Fire Crystal"],
+        "icon": [
+          "/icon/crystal6.png",
+          "/icon/crystal7.png",
+          "/icon/crystal8.png",
+          "/icon/refined_fire-crystal.png"
+        ]
+      }
+    },
+    {
+      "days": 360,
+      "name": "Gen 6 Heroes",
+      "heroes": {
+        "names": ["Wuming", "Renee", "Wayne"],
+        "icon": ["/icon/wuming_thumb.jpg", "/icon/renee_thumb.jpg", "/icon/wayne_thumb.jpg"],
+        "acquisition": [["HOH"], ["Lucky_Wheel"], ["HOC", "KOI", "SVS"]]
+      },
+      "details": ["3 Added Gen 6 Heroes"]
+    },
+    {
+      "days": 370,
+      "name": "Mammoth Update",
+      "details": ["Big Mammoth feature added"],
+      "icons": {
+        "names": ["Mammoth"],
+        "icon": ["/icon/mammoth.jpg"]
+      }
+    },
+    {
+      "days": 440,
+      "name": "Gen 7 Heroes",
+      "heroes": {
+        "names": ["Edith", "Gordon", "Bradley"],
+        "icon": ["/icon/edith.jpg", "/icon/gordon.jpg", "/icon/bradley.jpg"],
+        "acquisition": [["HOC", "KOI", "SVS"], ["HOH"], ["Lucky_Wheel"]]
+      },
+      "details": ["3 new heroes released"]
+    },
+    {
+      "days": 500,
+      "name": "Crystal Mastery",
+      "details": ["Fire crystal level 9-10 unlock"],
+      "icons": {
+        "names": ["Level 9", "Level 10"],
+        "icon": ["/icon/lv_9.png", "/icon/lv_10.png"]
+      }
+    },
+    {
+      "days": 520,
+      "name": "Gen 8 Heroes",
+      "heroes": {
+        "names": ["Gatot", "Sonya", "Hendrik"],
+        "icon": ["/icon/gatot.jpg", "/icon/sonya.jpg", "/icon/hendrik.jpg"],
+        "acquisition": [["Lucky_Wheel"], ["HOC", "KOI", "SVS"], ["HOH"]]
+      },
+      "details": ["New generation 8 heroes released"]
+    },
+    {
+      "days": 600,
+      "name": "Gen 9 Heroes",
+      "heroes": {
+        "names": ["Magnus", "Fred", "Xura"],
+        "icon": ["/icon/magnus.jpg", "/icon/fred.jpg", "/icon/xura.jpg"],
+        "acquisition": [["HOH"], ["Lucky_Wheel"], ["HOC", "KOI", "SVS"]]
+      },
+      "details": ["New generation 9 heroes released"]
+    },
+    {
+      "days": 700,
+      "name": "Gen 10 Heroes",
+      "heroes": {
+        "names": ["Gregory", "Freya", "Blanchette"],
+        "icon": [
+          "/icon/gregory.jpg",
+          "/icon/freya.jpg",
+          "/icon/blanchette.jpg"
+        ],
+        "acquisition": [["HOC", "KOI", "SVS"], ["HOH"], ["Lucky_Wheel"]]
+      },
+      "details": ["New generation 10 heroes released"]
+    },
+    {
+      "days": 800,
+      "name": "Gen 11 Heroes",
+      "heroes": {
+        "names": ["Eleonora", "Lloyd", "Rufus"],
+        "icon": [
+          "/icon/eleonora_gold.png",
+          "/icon/lloyd.png",
+          "/icon/rufus.png"
+        ],
+        "acquisition": [["Lucky_Wheel"], ["HOC", "KOI", "SVS"], ["HOH"]]
+      },
+      "details": ["New generation 11 heroes released"]
+    }
+  ]
+}

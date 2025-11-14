@@ -184,7 +184,7 @@ export default function Sidebar() {
             Contact Me
           </a>
         </div>
-        © Special Lazyness. <br /> app created by special one #991
+        © Special Lazyness. <br /> app created by special one #1067
         <p className="mt-2 text-xs text-zinc-600 font-mono">
           Version: {version}
         </p>
